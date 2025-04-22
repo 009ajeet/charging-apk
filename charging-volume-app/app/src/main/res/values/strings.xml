@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Charging Volume App</string>
+    <string name="charging_speed_label">Current Charging Speed (mAh):</string>
+    <string name="volume_control_label">Adjust Call Volume:</string>
+    <string name="increase_volume">Increase Volume</string>
+    <string name="decrease_volume">Decrease Volume</string>
+    <string name="set_volume">Set Volume</string>
+    <string name="volume_level">Volume Level:</string>
+    <string name="battery_service_started">Battery service started.</string>
+    <string name="volume_service_started">Volume service started.</string>
+    <string name="error_message">An error occurred. Please try again.</string>
+</resources>
